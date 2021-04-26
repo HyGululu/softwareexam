@@ -1,0 +1,9 @@
+.idea/*
+*.class
+target/
+*.log
+test-output/
+credit_platform.iml
+reports/
+.settings/
+catalina.home_IS_UNDEFINED/
